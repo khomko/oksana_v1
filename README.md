@@ -1,5 +1,4 @@
 # oksana_v1
-Ксения
 using JCS;
 using Microsoft.Win32;
 using System;
