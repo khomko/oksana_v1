@@ -8,6 +8,9 @@ using System.Runtime.InteropServices;
 using System.Threading;
 using System.Windows;
 
+
+
+
 namespace WpfApplication_OKSANA
 {
 /// <summary>
