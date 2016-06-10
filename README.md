@@ -11,22 +11,6 @@ using System.Windows;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 public class autorun
 {
 public static bool SetAutorunValue(bool autorun, string npath)
